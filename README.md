@@ -1,2 +1,2 @@
-# valtech-python-poc
-Data Synchronization between AWS DynamoDB and Amazon S3
+# Valtech Python Proof-of-Concept (PoC)
+This repository contains a Proof-of-Concept (PoC) project developed by Walter Dotto, showcasing the implementation of AWS services and CSV file generation Python-based solutions
