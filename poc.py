@@ -12,7 +12,6 @@ S3_BUCKET_NAME = 'bucket-name'
 CSV_FILENAME = 'csv_items'
 ROOT_DIRECTORY = "directory"
 CSV_PATH = f'{ROOT_DIRECTORY}/{CSV_FILENAME}'
-ARCHIVE_PATH = f'{ROOT_DIRECTORY}/archive'
 
 
 def get_items(env):
